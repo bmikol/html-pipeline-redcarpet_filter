@@ -1,6 +1,6 @@
 # HTML::Pipeline::RedcarpetFilter
 
-[![Build Status](https://travis-ci.org/bmikol/html-pipeline-redcarpet_filter.svg?branch=master)](https://travis-ci.org/bmikol/html-pipeline-redcarpet_filter)
+[![Build Status](https://travis-ci.org/bmikol/html-pipeline-redcarpet_filter.svg?branch=master)](https://travis-ci.org/bmikol/html-pipeline-redcarpet_filter) [![Dependency Status](https://www.versioneye.com/user/projects/57110ea3fcd19a004544102a/badge.svg?style=flat)](https://www.versioneye.com/user/projects/57110ea3fcd19a004544102a)
 
 [Redcarpet](https://github.com/vmg/redcarpet) integration for [HTML::Pipeline](https://github.com/jch/html-pipeline). 
 
